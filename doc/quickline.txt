@@ -1,0 +1,11 @@
+                                                                *quickline*
+
+quicklineis a plugin for demo purpose. Development is in progress.
+
+To find out more:
+https://github.com/quickline2phi/quickline.nvim
+
+  :h Quickline
+
+Quickline
+    Just say "Hello world!!"
